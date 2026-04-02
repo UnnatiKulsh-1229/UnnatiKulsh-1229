@@ -12,8 +12,6 @@ I'm currently working on travelmate, ai based resume screening<br>I'm looking to
 ![](https://nirzak-streak-stats.vercel.app/?user=UnnatiKulsh-1229&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnnatiKulsh-1229&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UnnatiKulsh-1229&limit=5&theme=radical&combine_all_yearly_contributions=true)
