@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on travelmate, ai based resume screening<br>I'm looking to collaborate on Web dev, ml projects<br>I am currently learning AI\ML, Development,DSA<br>Contact me @kul.unnati19@gmail.com<br>
+I'm currently working on travelmate, ai based resume screening<br>I'm looking to collaborate on Web dev, ml projects<br>I am currently learning AI\ML, Development,DSA<br>Contact me @unnatikulshrestha29@gmail.com<br>
 
 
 ## 🌐 Socials:
