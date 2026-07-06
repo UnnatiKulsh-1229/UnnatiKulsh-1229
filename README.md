@@ -16,10 +16,4 @@ I'm currently working on women healthcare, ai based resume screening<br>I'm look
   <img src="https://github-readme-stats.vercel.com/api/top-langs?username=UnnatiKulsh-1229&theme=dark&layout=compact" alt="Top Langs" />
 </p>
 
-### 🔝 Top Contributed Repo
-<img src="https://github-readme-stats.vercel.com/api/pin/?username=UnnatiKulsh-1229&repo=YOUR_BEST_REPO_NAME&theme=dark" alt="Top Repo" />
-
----
-[![Visitor Count](https://visitcount.itsvg.in/api?id=UnnatiKulsh-1229&icon=0&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
